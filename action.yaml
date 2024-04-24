@@ -1,5 +1,5 @@
 name: poetry-publish
-description: This action is made to publish pypi applications with poetry on a new release created
+description: This action is made to publish pypi applications with poetry on a new release published.
 author: Victoria Luquet
 branding:
   icon: "gift"

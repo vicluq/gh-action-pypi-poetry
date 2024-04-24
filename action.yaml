@@ -1,4 +1,4 @@
-name: poetry-publish
+name: poetry-pypi-publish
 description: This action is made to publish pypi applications with poetry on a new release published.
 author: Victoria Luquet
 branding:
